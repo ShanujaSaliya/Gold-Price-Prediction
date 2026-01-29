@@ -10,6 +10,6 @@ The dataset used in this project is sourced from Kaggle:
 
 Source: Gold Price Data on Kaggle
 
-Description: The dataset contains historical gold price data including daily open, high, low, and closing prices, along with other relevant market features.
+Description: The dataset contains historical gold price data including Date,SPX,GLD,USO,SLV,EUR/USD.
 
 link : https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
